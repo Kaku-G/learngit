@@ -1,4 +1,2 @@
 first change
-a = 1 
-b = 2
-c = b
+I want to back to change 1
